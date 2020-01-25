@@ -2,19 +2,19 @@
 
 
 ## Overview
-
+![Comparisons with other patch-based algorithms](https://github.com/fzy139/CGPS/blob/master/results/intro.png)
 ## Results
 ![Comparisons with other patch-based algorithms](https://github.com/fzy139/CGPS/blob/master/results/comparisons.png)
 
-### Usage
-#### Dependencies
+## Usage
+### Dependencies
 
-#### Test
+### Test
 
-#### Train
+### Train
 
-### Citation
+## Citation
 
-### Acknowledgement
+## Acknowledgement
 
-### Contact
+## Contact
