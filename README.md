@@ -3,7 +3,8 @@
 
 ## Overview
 ![Close-ups](https://github.com/fzy139/CGPS/blob/master/results/intro.png)
-## Results
+
+## Comparisons
 ![Comparisons with other patch-based algorithms](https://github.com/fzy139/CGPS/blob/master/results/comparisons.png)
 
 ## Usage
@@ -12,12 +13,12 @@
 * OpenCV>=3.4
 
 ### Test
+Evaluate the method with the following command:
 `python test.py`
-
-### Train
-
-## Citation
+Bash scripts and arguments handler will be commited soon. 
 
 ## Acknowledgement
+Great appreciation of [Style-Swap](https://arxiv.org/abs/1612.04337) and [Avatar-Net](https://arxiv.org/abs/1805.03857) for both their papers and codes.
 
 ## Contact
+For any questions about our methods, please feel free to contact us at yzhu_0@stu.xidian.edu.cn and niuyi@mail.xidian.edu.cn.
