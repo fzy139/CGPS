@@ -13,8 +13,10 @@
 * OpenCV>=3.4
 
 ### Test
-Evaluate the method with the following command:\\
-`python test.py`\\
+Evaluate the method with the following command:
+
+`python test.py`
+
 Bash scripts and arguments handler will be commited soon. 
 
 ## Acknowledgement
