@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zhuyan@10.170.26.133:22 password" remoteFilesAllowedToDisappearOnAutoupload="false" showEqualInSync="true" showNewOnSourceInSync="false">
+    <serverData>
+      <paths name="lthpc@10.171.1.243">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="new">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/CGPS" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@402.ximikang.icu:2020">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhuyan@10.170.26.133:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhuyan/CGPS" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
