@@ -24,4 +24,4 @@ Bash scripts and arguments handler will be commited soon...
 Great appreciation of [Style-Swap](https://arxiv.org/abs/1612.04337) and [Avatar-Net](https://arxiv.org/abs/1805.03857) for both their papers and codes.
 
 ## Contact
-For any questions about our method, please feel free to contact us at yzhu_0@stu.xidian.edu.cn and niuyi@mail.xidian.edu.cn.
+For any questions about our method, please feel free to contact us at niuyiATmailDOTxidianDOTeduDOTcn.
